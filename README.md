@@ -1,2 +1,0 @@
-# EEProj
-Electrical Engineering Project
