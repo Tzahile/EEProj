@@ -4,10 +4,8 @@ import math
 import numpy as np
 #import operator
 
-
-def diff_py(matrix):
-    matrix_diff = np.transpose(np.diff(np.transpose((matrix))))
-    return matrix_diff
+def testFunc():
+    print("HelloWorld")
 
 
 def diff_and_find_py(matrix):
